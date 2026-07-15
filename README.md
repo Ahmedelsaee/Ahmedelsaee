@@ -1,35 +1,37 @@
 # Ahmed Elsaeed
 
-**Data Scientist & Machine Learning Engineer**  
-*Applied AI • Data Analytics • Production-Focused ML Systems*
+**Data Analyst**
+*Python • Power BI • Excel*
 
 ---
 
 ## 👋 Overview
 
-I am a **Data Science & Machine Learning Engineer** passionate about turning complex data into **clear, actionable insights**. I specialize in **Python-based analytics, data preprocessing, visualization and machine learning**, building user-centered solutions that transform raw data into real business value.
+I'm a **Data Analyst** with a strong foundation in **Data Science** and a passion for turning raw data into meaningful business insights. I enjoy working with data throughout its lifecycle—from cleaning and preprocessing to visualization, dashboard development, and analytical reporting.
 
-My work focuses on applying **data-driven modeling and predictive analytics** to solve practical problems, uncover hidden opportunities, and support decision-making. I value clean engineering practices, continuous learning, and collaborative development.
+I primarily work with **Python, Excel, and Power BI** to build data-driven solutions, interactive dashboards, and analytics projects. I also have experience with machine learning fundamentals and enjoy exploring predictive analytics and AI applications.
+
+I'm continuously improving my skills by building real-world projects and learning modern data technologies.
 
 ---
 
 ## 🚀 What I Build
 
-- **Machine Learning & Predictive Models**  
-  Regression, classification, and clustering solutions from experimentation to deployment  
-- **Web Applications & Data-Driven Tools**  
-  **Flask** and **Streamlit** apps to turn models and insights into user-friendly applications  
-- **Data Preprocessing Pipelines**  
-  Cleaning, feature engineering, and transformation workflows for structured and unstructured data  
-- **End-to-End Data Solutions**  
-  Converting raw datasets into actionable strategies and business insights
+- 📊 Interactive Power BI Dashboards
+- 📈 Business Intelligence & KPI Reporting
+- 🐍 Data Analysis with Python (Pandas, NumPy)
+- 🧹 Data Cleaning & Preprocessing Pipelines
+- 📉 Exploratory Data Analysis (EDA)
+- 🤖 Machine Learning Projects
+- 🌐 Data Apps with Streamlit & Flask
 
 ---
 
 ## 📌 Featured Work
 
-Selected projects showcasing applied data science and ML:
+Selected projects showcasing applied data analysis and ML:
 
+- **Interactive Excel & Power BI Dashboards**
 - **Predictive Analytics & Modeling**  
   Projects that forecast outcomes and uncover trends from real-world datasets  
 - **Data Cleaning & Feature Engineering Pipelines**  
@@ -42,6 +44,9 @@ Selected projects showcasing applied data science and ML:
 ---
 
 ## 🛠 Technical Skills
+### Data Visualization & Dashboards
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### Programming & Libraries
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -70,7 +75,7 @@ Selected projects showcasing applied data science and ML:
 ## 📚 Research & Continuous Learning
 
 I actively explore and document:  
-- Advances in **Machine Learning & Data Science techniques**  
+- Advances in **Data Anlysis & Machine Learning techniques**  
 - Emerging tools and libraries in **Python analytics and ML ecosystems**  
 - Technical books, tutorials, and structured learning paths for applied data science  
 
@@ -81,9 +86,9 @@ I maintain repositories for **research notes, learning resources, and ML experim
 ## 🤝 Collaboration & Opportunities
 
 I am open to:  
-- **Junior Data Science & Machine Learning roles**  
-- **Projects in data science and ML**  
-- **Open-source contributions and collaborative data science projects**
+- **Junior Data Analyst & Machine Learning roles**  
+- **Projects in data Analysis and ML**  
+- **Open-source contributions and collaborative data Analysis & Machine Learning projects**
 
 ---
 
